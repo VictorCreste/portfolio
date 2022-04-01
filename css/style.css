@@ -20,7 +20,9 @@
 }
 
 body  { 
-    background-color: rgba(0, 0, 0, 0.842);
+    height: 100vh;
+    background: radial-gradient(ellipse at bottom, #1b2735, #090a0f);
+    overflow: hidden ;
 
 }
 
