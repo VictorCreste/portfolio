@@ -20,9 +20,9 @@
 }
 
 body  { 
-    height: 100vh;
+    
     background: radial-gradient(ellipse at bottom, #1b2735, #090a0f);
-    overflow: hidden ;
+    overflow: visible ;
 
 }
 
